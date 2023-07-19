@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sidharthd7
-- 👀 I’m interested in coding,video editing and sketching
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on graphic designing and videography
+- 👀 I’m interested in UI/UX Designing
+- 🌱 I’m currently learning Front End Development!
+- 💞️ I’m looking to collaborate on Competitive coding
 - 📫 You can reach me through my instagram handle:@sidharth.17
-- 📸 I'm also having a photography page: @just_like_you._
+- 📸 I also have a photography page: @just_like_you._
 
 <!---
 sidharthd7/sidharthd7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
