@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Front End Development!
 - 💞️ I’m looking to collaborate on Competitive coding
 - 📫 You can reach me through my instagram handle:@sidharth.17
-- 📸 I also have a photography page: @just_like_you._
+
 
 <!---
 sidharthd7/sidharthd7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
