@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sidharthd7
-- 👀 I’m interested in UI/UX Designing
+- 👀 I’m interested in Product Design
 - 🌱 I’m currently learning Front End Development!
 - 💞️ I’m looking to collaborate on Competitive coding
-- 📫 You can reach me through my instagram handle:@sidharth.17
+- 📫 You can reach me through my linkedin: @Sidharth Dhawan
 
 
 <!---
